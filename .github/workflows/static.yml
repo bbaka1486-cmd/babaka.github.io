@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Privacy Policy - STALKER Mobile</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Arial,sans-serif;background:#0a0a0a;color:#ddd;line-height:1.6;padding:20px;max-width:800px;margin:0 auto}
+h1{color:#e94560;border-bottom:2px solid #e94560;padding-bottom:10px;margin:30px 0 15px}
+h2{color:#64ffda;margin:25px 0 10px;font-size:1.2em}
+p{margin-bottom:15px}
+ul{margin:15px 0 15px 30px}
+li{margin-bottom:8px}
+.box{background:#1a1a1a;padding:15px;border-left:4px solid #e94560;margin:20px 0}
+.contact{background:#16213e;padding:20px;border-radius:8px;margin-top:30px}
+a{color:#64ffda}
+</style>
+</head>
+<body>
+
+<h1>ПОЛІТИКА КОНФІДЕНЦІЙНОСТІ</h1>
+<p><strong>Останнє оновлення:</strong> 18 березня 2026</p>
+
+<div class="box">
+<strong>Важливо:</strong> Використовуючи STALKER Mobile, ви погоджуєтесь з цією політикою. Якщо не згодні — не встановлюйте гру.
+</div>
+
+<h2>1. Які дані збираємо</h2>
+<ul>
+<li><strong>Email та пароль</strong> — для авторизації (пароль хешується)</li>
+<li><strong>Ігровий нікнейм</strong> — публічне ім'я в грі</li>
+<li><strong>Ігровий прогрес</strong> — позиція, інвентар, статистика</li>
+<li><strong>ID пристрою</strong> — для захисту акаунта</li>
+<li><strong>IP-адреса</strong> — анти-чит, безпека (зберігається 30 днів)</li>
+<li><strong>Crash logs</strong> — для виправлення помилок</li>
+</ul>
+
+<h2>2. Навіщо використовуємо</h2>
+<ul>
+<li>Збереження прогресу на сервері</li>
+<li>Захист від чітів та ботів</li>
+<li>Відновлення доступу до акаунта</li>
+<li>Покращення продуктивності гри</li>
+</ul>
+
+<h2>3. Захист даних</h2>
+<ul>
+<li>SSL/TLS шифрування всіх з'єднань</li>
+<li>Паролі хешуються bcrypt</li>
+<li>Сервери Firebase (GCP Europe)</li>
+<li>Щоденні резервні копії</li>
+</ul>
+
+<h2>4. Ваші права (GDPR)</h2>
+<ul>
+<li><strong>Доступ</strong> — отримати копію ваших даних</li>
+<li><strong>Виправлення</strong> — змінити невірні дані</li>
+<li><strong>Видалення</strong> — повне стирання акаунта ("право бути забутим")</li>
+<li><strong>Експорт</strong> — JSON файл з вашими даними</li>
+</ul>
+
+<h2>5. Треті сторони</h2>
+<p>Використовуємо:</p>
+<ul>
+<li><strong>Firebase</strong> — авторизація та база даних</li>
+<li><strong>Google AdMob</strong> — реклама (можна вимкнути в налаштуваннях)</li>
+<li><strong>Google Play Games</strong> — досягнення</li>
+</ul>
+
+<h2>6. Діти</h2>
+<p>Гра має рейтинг <strong>16+</strong> (насильство, зброя). Ми не збираємо дані від користувачів молодше 16 років. Виявили дитину без згоди батьків — <a href="mailto:privacy@stalkermobile.game">повідомте нас</a>.</p>
+
+<h2>7. Зміни</h2>
+<p>Про суттєві зміни повідомимо через спливаюче вікно в грі або email.</p>
+
+<div class="contact">
+<h2>Контакти</h2>
+<p><strong>Email:</strong> <a href="mailto:privacy@stalkermobile.game">privacy@stalkermobile.game</a></p>
+<p><strong>Термін відповіді:</strong> до 48 годин</p>
+<p><strong>Для GDPR-запитів:</strong> вкажіть тему "PRIVACY REQUEST"</p>
+</div>
+
+<p style="margin-top:40px;color:#888;font-size:0.9em">© 2026 STALKER Mobile. Фанатський проект, не афілійований з GSC Game World.</p>
+
+</body>
+</html>
